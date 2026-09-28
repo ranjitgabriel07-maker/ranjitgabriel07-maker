@@ -1,16 +1,28 @@
-## Hi there 👋
+#Hi there, I'm Ranjit,
 
-<!--
-**ranjitgabriel07-maker/ranjitgabriel07-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity student at Aston University, Birmingham**
 
-Here are some ideas to get you started:
+I am a second year BSc student currently creating hands-on-security projects alongside my degree. I am interested in SOC operation, penetration testings and incident response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm currently working on:
+
+[Malware Analysis Sandbox](https://github.com/ranjitgabriel07-maker/malware-analysis-sandbox) — an isolated VM environment for safe malware detonation and behaviour analysis using VMware and REMnux
+
+-Certifications & training
+
+- CompTIA Security+ (SY0-701) — exam booked Nov 2026
+- Cisco Introduction to Cybersecurity — completed Sep 2026
+- Mastercard Cybersecurity Virtual Experience (Forage) — completed Sep 2026
+- AIG Shields Up Cybersecurity Virtual Experience (Forage) — completed
+
+-Skills
+
+`VMware` · `Network Security` · `Windows` · `Vulnerability Assessment`
+
+-Currently learning
+
+`Python` · `Linux` · `Wireshark` · `Log Analysis` · `SIEM`
+
+-Connect
+
+- [LinkedIn](https://linkedin.com/in/ranjit-singh-7355b5328)
